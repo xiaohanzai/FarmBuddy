@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37fb5cd09a8a41c42a66cfa4bd6c247f, type: 3}
+  m_Name: PlantType_Beans
+  m_EditorClassIdentifier: 
+  _plantTypeName: 
+  _harvestSprite: {fileID: 0}
+  _seedSprite: {fileID: 0}
+  _timeToGrow: 0
+  _minHarvest: 0
+  _maxHarvest: 0
+  _minSeeds: 0
+  _maxSeeds: 0
+  _pricePerSeed: 0
+  _pricePerHarvest: 0
