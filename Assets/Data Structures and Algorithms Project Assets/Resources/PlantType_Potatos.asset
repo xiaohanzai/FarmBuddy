@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37fb5cd09a8a41c42a66cfa4bd6c247f, type: 3}
   m_Name: PlantType_Potatos
   m_EditorClassIdentifier: 
-  _plantTypeName: 
-  _harvestSprite: {fileID: 0}
-  _seedSprite: {fileID: 0}
-  _timeToGrow: 0
-  _minHarvest: 0
-  _maxHarvest: 0
-  _minSeeds: 0
-  _maxSeeds: 0
-  _pricePerSeed: 0
-  _pricePerHarvest: 0
+  _plantTypeName: Potatos
+  _harvestSprite: {fileID: 1826556347, guid: 7862a1f8665fbd54bb34a6e6ebf41e50, type: 3}
+  _seedSprite: {fileID: 293069461, guid: 7862a1f8665fbd54bb34a6e6ebf41e50, type: 3}
+  _timeToGrow: 0.5
+  _minHarvest: 1
+  _maxHarvest: 2
+  _minSeeds: 1
+  _maxSeeds: 2
+  _pricePerSeed: 1
+  _pricePerHarvest: 1
